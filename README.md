@@ -5,4 +5,5 @@ CI/CD is a method using in the apps/software develop process, continuous intergr
 The tools that can be used are CodDeploy, Jenkins CD, Spinnaker. Developer using the tools to monitor different stages in the develope of apps/software, find and fix bugs in the early stage and ensure deployments happen often and quick.
 ## Sources:
 YouTube, What is CICD, https://www.youtube.com/watch?v=N9KbmHhesmE
+
 RedHat, What is CI/CD?, https://www.redhat.com/en/topics/devops/what-is-ci-cd
